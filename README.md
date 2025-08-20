@@ -1,4 +1,5 @@
 # 🏧 ATM Simulator (GUI with Tkinter + ttkbootstrap)
+<img width="397" height="320" alt="ATM_Simulator_v3" src="https://github.com/user-attachments/assets/77986688-c977-4a33-a868-adc173e6264e" />
 
 A modern **ATM Simulator GUI** built with Python's Tkinter and styled with *ttkbootstrap (Material Design theme)*.  
 It supports **checking balance, deposits, withdrawals, transfers**, and generates a **receipt slip** when the session ends.
